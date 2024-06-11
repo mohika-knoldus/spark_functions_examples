@@ -1,0 +1,11 @@
+target/
+.project
+.cache/
+.classpath
+.idea/
+*.iml
+*.log
+*.swp
+
+.bsp/sbt.json
+.bsp

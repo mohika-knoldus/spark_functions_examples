@@ -1,0 +1,8 @@
+Emp_no,Emp_name,Department
+101,Murugan,HealthCare
+Invalid Entry,Description: Bad Record entry
+102,Kannan,Finance
+103,Mani,IT
+Connection lost,Description: Poor Connection
+104,Pavan,HR
+Bad Record,Description: Corrupt record

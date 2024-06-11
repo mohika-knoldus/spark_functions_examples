@@ -1,0 +1,9 @@
+name,age,country,product,quantity,price,availability,selling_price,tax
+John,25,USA,Apple_apple,10,100,true,105,2
+Alice,35,UK,Orange_orange,15,40,false,45,3
+Bob,42,USA,Apple_apple,20,100,true,,2
+Charlie,28,USA,Apple_apple,25,100,true,105,2
+Emily,32,Australia,Banana_banana,12,50,false,50,3
+David,39,USA,Orange_orange,18,null,false,3
+Emma,27,Australia,Banana_banana,30,50,false,50,3
+Oliver,45,UK,Orange_orange,22,40,true,40,3
